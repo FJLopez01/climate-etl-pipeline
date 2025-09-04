@@ -251,8 +251,8 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 Ingeniero en Datos  
 
 - 🌐 Portfolio: [tu-portfolio.com](https://tu-portfolio.com)
-- 💼 LinkedIn: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
-- 📧 Email: tu.email@example.com
+- 💼 LinkedIn: [www.linkedin.com/in/fjlopez2901](https://www.linkedin.com/in/fjlopez2901/)
+- 📧 Email: lopez.frank.2901@gmail.com
 
 ---
 
